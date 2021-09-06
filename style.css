@@ -80,6 +80,11 @@ header .navbar a:hover {
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
 }
 
+header.sticky {
+    background: #fff;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+}
+
 #menu {
     font-size: 3rem;
     color: var(--blue);
