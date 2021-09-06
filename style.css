@@ -9,7 +9,8 @@
 * {
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    padding: 0;
+    padding: .5rem;
+    box-sizing: border-box;
     text-decoration: none;
     outline: none;
     border: none;
@@ -87,7 +88,26 @@ header .navbar a:hover {
 @media(max-width:991px) {
 
     #menu {
-        display: none;
+        display: block;
+    }
+
+    header .navbar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background: #fff;
+        padding: 2rem;
+        border-top: .1rem solid rgba(0, 0, 0, .1);
+        transform-origin: top;
+        transform: scaleY(0);
+        opacity: 0;
+    }
+
+    header .navbar a {
+        display: block;
+        margin: 1.5rem 0;
+        font-size: 2rem;
     }
 
 }
