@@ -56,3 +56,9 @@ header .navbar a {
     border-radius: .5rem;
     color: var(--dark-blue);
 }
+
+header .navbar a:hover {
+    background: var(--blue);
+    color: #fff;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+}
