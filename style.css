@@ -112,6 +112,10 @@ header .navbar a:hover {
     font-size: 1.7rem;
 }
 
+.home .content .btn:hover {
+    background: var(--dark-blue);
+}
+
 
 
 
