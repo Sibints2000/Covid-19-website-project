@@ -57,6 +57,7 @@ header .navbar a {
     color: var(--dark-blue);
 }
 
+header .navbar a.active,
 header .navbar a:hover {
     background: var(--blue);
     color: #fff;
