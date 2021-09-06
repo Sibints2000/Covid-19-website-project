@@ -98,6 +98,7 @@ header .navbar a:hover {
 .home .content h3 {
     font-size: 4rem;
     color: var(--blue);
+    font-weight: normal;
 }
 
 
