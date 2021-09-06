@@ -1,18 +1,18 @@
-$(document).ready(function(){
+$(document).ready(function () {
 
-    $('#menu').click(function(){
+    $('#menu').click(function () {
         $(this).toggleClass('fa-times');
         $('.navbar').toggleClass('nav-toggle');
     });
 
-    $(window).on('load scroll', function() {
+    $(window).on('load scroll', function () {
 
         $('#menu').removeClass('fa-times');
         $('.navbar').removeClass('nav-toggle');
 
-        if($(window).scrollTop() > 0) {
+        if ($(window).scrollTop() > 0) {
             $('header').addClass('sticky');
-        }else{
+        } else {
             $('header').removeClass('sticky');
         }
 
