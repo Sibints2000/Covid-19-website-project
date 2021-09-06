@@ -125,6 +125,13 @@ header .navbar a:hover {
     background: var(--dark-blue);
 }
 
+.prevent .box-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 
 
 
