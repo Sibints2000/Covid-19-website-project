@@ -75,6 +75,16 @@ header .navbar a:hover {
 
 
 
+
+
+
+body{
+    height: 300rem;
+}
+
+
+
+
 /* media queries */
 
 @media(max-width:1200px) {
