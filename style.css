@@ -140,7 +140,15 @@ header .navbar a:hover {
     text-align: center;
 }
 
+.prevent .box-container .box img {
+    height: 12rem;
+    padding: 1rem;
+}
 
+.prevent .box-container .box h3 {
+    color: var(--blue);
+    font-size: 2rem;
+}
 
 
 
