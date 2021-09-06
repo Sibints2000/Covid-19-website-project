@@ -101,6 +101,17 @@ header .navbar a:hover {
     font-weight: normal;
 }
 
+.home .content .btn {
+    display: inline-block;
+    padding: .7rem 3rem;
+    color: #fff;
+    background: var(--blue);
+    border-radius: .5rem;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+    margin-top: 1rem;
+    font-size: 1.7rem;
+}
+
 
 
 
