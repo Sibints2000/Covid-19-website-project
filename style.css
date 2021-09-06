@@ -29,6 +29,12 @@ html {
     overflow-x: hidden;
 }
 
+section {
+    min-height: 100vh;
+    padding: 1rem 9%;
+    padding-top: 8rem;
+}
+
 header {
     width: 100%;
     display: flex;
