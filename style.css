@@ -150,6 +150,12 @@ header .navbar a:hover {
     font-size: 2rem;
 }
 
+.prevent .box-container .box p {
+    color: var(--dark-blue);
+    font-size: 1.4rem;
+    padding: 1rem;
+}
+
 
 
 
