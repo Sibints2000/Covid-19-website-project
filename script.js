@@ -5,6 +5,11 @@ $(document).ready(function(){
         $('.navbar').toggleClass('nav-toggle');
     });
 
-    
+    $(window).on('load scroll', function() {
+
+        $('#menu').removeClass('fa-times');
+        $('.navbar').removeClass('nav-toggle');
+
+    });
 
 });
