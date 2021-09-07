@@ -381,6 +381,13 @@ header.sticky {
     padding: .5rem 0;
 }
 
+.footer .box-container .box a {
+    font-size: 1.5rem;
+    color: var(--dark-blue);
+    padding: .5rem 0;
+    display: block;
+}
+
 
 
 
