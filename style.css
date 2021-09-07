@@ -336,6 +336,11 @@ header.sticky {
     flex-wrap: wrap;
 }
 
+.hand-wash .column .box-container .box {
+    text-align: center;
+    margin: 2rem;
+}
+
 
 
 
