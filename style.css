@@ -392,6 +392,19 @@ header.sticky {
     text-decoration: underline;
 }
 
+.footer .credit {
+    font-size: 2rem;
+    font-weight: normal;
+    text-align: center;
+    border-top: .1rem solid rgba(0, 0, 0, .1);
+    padding: 2.5rem 1rem;
+    color: var(--dark-blue);
+}
+
+.footer .credit a {
+    color: var(--blue);
+}
+
 
 
 
