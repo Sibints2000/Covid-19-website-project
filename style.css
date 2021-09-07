@@ -233,7 +233,8 @@ header.sticky {
 .precautions .column .box-container .box {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    align-items: center;
+    padding: 1rem;
 }
 
 
