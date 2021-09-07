@@ -226,6 +226,10 @@ header.sticky {
     color: #fff;
 }
 
+.precautions .column .box-container:last-child .title {
+    background: #ff3300;
+}
+
 
 
 
