@@ -16,7 +16,27 @@ $(document).ready(function () {
             $('header').removeClass('sticky');
         }
 
+        if ($(window).scrollTop() > 0) {
+            $('.scroll-top').show();
+        } else {
+            $('.scroll-top').hide();
+        }
+
+        //scroll spy
+
+        $('section').each(function() {
+
+            let top = $(window).scrollTop();
+            let offset = $(this).offset().top - 200;
+            let id = $().attr('id');
+            let height = $().height();
+
+        });
+
 
     });
+
+
+
 
 });
