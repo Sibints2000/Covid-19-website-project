@@ -359,6 +359,27 @@ header.sticky {
     background-attachment: fixed;
 }
 
+.footer .box-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer .box-container .box {
+    flex: 1 1 25rem;
+    margin: 2rem;
+}
+
+.footer .box-container .box h3 {
+    font-size: 2.5rem;
+    color: var(--blue);
+    padding: 1rem 0;
+}
+
+.footer .box-container .box p {
+    font-size: 2.5rem;
+    color: var(--blue);
+    padding: 1rem 0;
+}
 
 
 
