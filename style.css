@@ -275,6 +275,21 @@ header.sticky {
     text-align: center;
     background: #fff;
     border: .1rem solid rgba(0, 0, 0, .1);
+    width: 33rem;
+}
+
+.doctor .box-container .box img {
+    margin: 1rem;
+    border-radius: 50%;
+    height: 20rem;
+    width: 20rem;
+    object-fit: cover;
+    background: var(--blue);
+}
+
+.doctor .box-container .box h3 {
+    font-size: 2rem;
+    color: var(--blue);
 }
 
 
