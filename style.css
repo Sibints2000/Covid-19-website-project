@@ -250,6 +250,7 @@ header.sticky {
 .precautions .column .box-container .box p {
     font-size: 1.2rem;
     color: var(--dark-blue);
+    padding: 1rem 0;
 }
 
 
