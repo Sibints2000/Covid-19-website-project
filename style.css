@@ -341,6 +341,12 @@ header.sticky {
     margin: 2rem;
 }
 
+.hand-wash .column .box-container .box img {
+    width: 17rem;
+    height: 17rem;
+    padding: 1rem;
+}
+
 
 
 
