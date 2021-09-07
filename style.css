@@ -189,6 +189,13 @@ header.sticky {
     flex-wrap: wrap;
 }
 
+.symptoms .column .box-container .box {
+    margin: 1rem;
+    text-align: center
+}
+
+
+
 
 
 
