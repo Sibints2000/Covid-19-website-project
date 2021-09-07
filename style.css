@@ -204,6 +204,12 @@ header.sticky {
     color: var(--blue);
 }
 
+.precautions .column {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 
 
 
