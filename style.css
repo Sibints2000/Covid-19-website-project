@@ -172,6 +172,22 @@ header.sticky {
     background-attachment: fixed;
 }
 
+.symptoms .column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.symptoms .column .main-image img {
+    width: 43vh;
+}
+
+.symptoms .column .box-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 
 
