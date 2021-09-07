@@ -352,7 +352,12 @@ header.sticky {
     color: var(--blue);
 }
 
-
+.footer {
+    background: url(./images/background-img.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
 
 
