@@ -416,6 +416,10 @@ header.sticky {
         display: none;
     }
 
+    .hand-wash .column .main-image img {
+        display: none;
+    }
+
 }
 
 @media(max-width:768px) {
