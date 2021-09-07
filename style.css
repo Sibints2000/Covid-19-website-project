@@ -194,6 +194,16 @@ header.sticky {
     text-align: center
 }
 
+.symptoms .column .box-container .box img {
+    width: 20rem;
+    padding: 1rem;
+}
+
+.symptoms .column .box-container .box h3 {
+    font-size: 2rem;
+    color: var(--blue);
+}
+
 
 
 
