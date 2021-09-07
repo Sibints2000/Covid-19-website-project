@@ -138,7 +138,7 @@ header.sticky {
 }
 
 .prevent .box-container .box {
-    flex:  1 1 30rem;
+    flex: 1 1 30rem;
     border-radius: .5rem;
     margin: 1rem;
     padding: 1rem;
@@ -163,6 +163,13 @@ header.sticky {
 
 .prevent .box-container .box:hover {
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+}
+
+.symptoms {
+    background: url(./images/background-img.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 
