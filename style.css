@@ -230,6 +230,12 @@ header.sticky {
     background: #ff3300;
 }
 
+.precautions .column .box-container .box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 
 
 
