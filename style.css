@@ -292,6 +292,13 @@ header.sticky {
     color: var(--blue);
 }
 
+.doctor .box-container .box span {
+    font-size: 1.5rem;
+    color: var(--dark-blue);
+}
+
+
+
 
 
 
