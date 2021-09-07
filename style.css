@@ -218,6 +218,14 @@ header.sticky {
     border-radius: .5rem;
 }
 
+.precautions .column .box-container .title {
+    padding: 1.5rem;
+    text-align: center;
+    font-size: 2.5rem;
+    background: var(--blue);
+    color: #fff;
+}
+
 
 
 
