@@ -329,7 +329,12 @@ header.sticky {
     width: 25vh;
 }
 
-.hand-wash .column
+.hand-wash .column .box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
 
 
