@@ -297,6 +297,17 @@ header.sticky {
     color: var(--dark-blue);
 }
 
+.doctor .box-container .box .share a {
+    border-radius: 50%;
+    height: 4.5rem;
+    width: 4.5rem;
+    line-height: 4.5rem;
+    font-size: 2rem;
+    margin: .4rem;
+    background: #eee;
+    color: var(--blue);
+}
+
 
 
 
