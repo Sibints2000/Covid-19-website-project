@@ -388,6 +388,10 @@ header.sticky {
     display: block;
 }
 
+.footer a:hover {
+    text-decoration: underline;
+}
+
 
 
 
