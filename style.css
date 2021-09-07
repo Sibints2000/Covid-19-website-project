@@ -320,6 +320,13 @@ header.sticky {
     transform: rotate(360deg);
 }
 
+.hand-wash .column {
+    display: flex;
+    justify-content: center;
+}
+
+.hand-wash .column
+
 
 
 
